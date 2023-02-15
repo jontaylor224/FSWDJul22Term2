@@ -1,0 +1,6 @@
+.ui-alert {
+  position: fixed;
+  width: 80vw;
+  left: 10vw;
+  bottom: 0;
+}

@@ -1,0 +1,84 @@
+.light {
+  color: black;
+}
+
+.dark {
+  color: white;
+}
+
+.form-switch {
+  padding: 0 0 0 45px !important;
+}
+
+.themeContainer {
+  width: 100vw;
+  height: 100vh;
+}
+
+.themeContainer.light {
+  background-color: lightgray !important;
+}
+
+.themeContainer.dark {
+  background-color: rgb(42, 42, 42) !important;
+}
+
+.cursor {
+  cursor: default;
+}
+
+.navbar-brand.dark {
+  color: inherit;
+}
+
+.navbar-brand.dark:visited {
+  color: inherit;
+}
+
+a.dark {
+  color: rgb(64, 127, 244);
+}
+
+code {
+  padding: 2px;
+  border-radius: 3px;
+}
+
+.light code {
+  padding: 2px;
+  border-radius: 3px;
+  background-color: rgb(42, 42, 42);
+  color: orange;
+}
+
+.dark code {
+  background-color: lightgray;
+}
+
+.overlay {
+  width: 100vw;
+  height: 100vw;
+  position: fixed;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+}
+
+.da-clouds {
+  opacity: 0.7;
+}
+
+.theme-box {
+  width: 100px;
+  height: 100px;
+}
+
+.theme-box.light {
+  background-color: cyan;
+  border: 5px solid black;
+}
+
+.theme-box.dark {
+  background-color: black;
+  border: 5px solid cyan;
+}

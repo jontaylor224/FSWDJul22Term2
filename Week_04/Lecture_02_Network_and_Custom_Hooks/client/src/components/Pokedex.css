@@ -1,0 +1,29 @@
+.page-controls {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.pokedex {
+  width: 50%;
+}
+
+.pokemon-summary {
+  text-decoration: underline;
+  color: blue;
+  cursor: pointer;
+}
+
+.pokemon-summary:visited {
+  color: purple;
+}
+
+.container {
+  /* width: 1000px; */
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.pokemon-details {
+  width: 50%;
+}

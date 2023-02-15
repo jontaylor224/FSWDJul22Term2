@@ -1,0 +1,14 @@
+.categoryThumbnail {
+  width: 100px;
+  height: auto;
+  cursor: pointer;
+}
+
+.link {
+  color: white;
+}
+
+.categoryLink {
+  display: flex;
+  flex-direction: column;
+}

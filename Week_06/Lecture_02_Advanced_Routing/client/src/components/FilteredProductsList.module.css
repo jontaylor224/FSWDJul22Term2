@@ -1,0 +1,12 @@
+.furnitureCard {
+  color: white;
+  text-shadow: 2px 2px 2px black;
+  height: 300px;
+  cursor: pointer;
+}
+
+.furnitureCard img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
